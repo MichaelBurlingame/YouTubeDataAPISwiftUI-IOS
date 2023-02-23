@@ -1,4 +1,4 @@
-# SwiftUIYouTubeDataAPI-IOS
+# YouTubeDataAPISwiftUI-IOS
 
 
 <img width="500" alt="App ScreenShot" src="https://user-images.githubusercontent.com/125146109/220982918-01fcdbb9-ac1b-4546-8311-1fd024b7f69e.png">
